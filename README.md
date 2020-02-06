@@ -4,4 +4,4 @@
 
 ## Table of Contents
 
-1. bind 的实现
+1. [bind 的实现](https://github.com/Wzb3422/js-funcs/blob/master/src/bind.js)
